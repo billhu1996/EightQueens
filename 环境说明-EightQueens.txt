@@ -1,0 +1,7 @@
+EightQueens
+------
+开发环境：Xcode 7.1.1(7B1005)
+编译器：LLVM(clang)
+代码语言：Swift2.1(类C语言)
+------
+使用Swift语言并运行在iPhone(iOS 9.x)上
